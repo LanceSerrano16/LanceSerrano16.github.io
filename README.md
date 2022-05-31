@@ -47,7 +47,7 @@
 					<section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>My dreams and ambitions</h2>
-							<p> I plan to become a chef or if not a nurse and I want to help my family by being successful and having a stable and good career. I will strive hard and study hard to achieve what I want to become because as my favorite saying goes "nothing worthwhile ever comes easy." so we need to work hard and attract to achieve something that we want to achieve.</p>
+							<p> My dream job is to become a Game Developer and a Entrepreneur because I enjoy it. I want to make my parents proud before its too late because in life you never know what happens next so always put your all into it. .</p>
 							
 						</div>
 						<div class="image">
@@ -59,7 +59,7 @@
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in">
 						<div class="content">
 							<h2>My Hobbies and the things that I like</h2>
-							<p> My hobbies are playing basketball, playing video games and online games, hanging out with friends, eating and studying. While I like to go to church, I like to travel, I like beach and nature, I like socializing with others, I like f2f :<<.</p>
+							<p> I like to play games on my free time and help my mom do chores in the house. I like to go out with my friends and have fun because friends are very important in life and I like it when my family gathers all together it makes me happy because a family will always be there for you. </p>
 							
 						</div>
 						<div class="image">
