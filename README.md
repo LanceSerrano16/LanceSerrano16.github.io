@@ -6,7 +6,7 @@
 -->
 <html>
 	<head>
-		<title> Oclarit's Website </title>
+		<title> Serrano's Website </title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -34,8 +34,8 @@
 				<!-- Two -->
 					<section class="spotlight style1 orient-right content-align-left image-position-center onscroll-image-fade-in" id="first">
 						<div class="content">
-							<h2> Joshua Emmanuel G. Oclarit </h2>
-							<p> 16 years old. Born in December 10, 2005, 3rd out of the 4 siblings. My full name is Joshua Emmanuel Gonzales Oclarit. This is my family my mom, dad, and my Kuyas and little sister.</p>
+							<h2> Lance Matthew H. Serrano </h2>
+							<p> I am 16 years old, Turning 17 this June 16 and I go to Malayan Colleges Mindanao. I have a brother who goes to Ateneo De Davao and Is graduating next year.</p>
 							
 						</div>
 						<div class="image">
